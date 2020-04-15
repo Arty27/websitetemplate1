@@ -1,4 +1,3 @@
-# websitetemplate
 <!DOCTYPE html>
 <html>
   <head>
@@ -20,6 +19,8 @@
       loop: true
       });
     </pre>
+    <br>
+    <p><b>Alert System</b> has been changed in this website using sweet alert 2.</p>
   </body>
   <html>
     
