@@ -10,7 +10,7 @@
         <br>
         The contact form is connected to google forms, and it can be changed according to convenience. 
         <br>
-      You can get to know how to connect the contact form to your google form  <a href="https://www.youtube.com/watch?                v=eVvhNAnOf1A" target="_blank" >here</a>.</p>
+      You can get to know how to connect the contact form to your google form  <a href="https://www.youtube.com/watch?                v=eVvhNAnOf1A" target="_blank">here</a>.</p>
     <h2>How to change the automatic typed sentences?</h2>
     <p>Go to main.js file, you will find the following code change the sentences as per requirement.
     <pre>
