@@ -1,20 +1,16 @@
-# websitetemplate1
-a simple website template with cool hover effects,jQuery plugins and contact form that sends info to your mail.
-This is a simple website template which has water ripple effect and other hover effects.
-.
-The contact form is connected to google forms, and it can be changed according to convenience.
-Keep all the files in single folder and then run the file.
+# websitetemplate
 <!DOCTYPE html>
 <html>
   <head>
   </head>
   <body>
     <h1>A Simple Website Template</h1>
-    <p>a simple website template with cool hover effects,jQuery plugins and contact form that sends info to your mail.
-        This is a simple website template which has water ripple effect and other hover effects.
+    <p>A simple website template with cool hover effects, jQuery plugins and a contact form that sends information to your mail.
+       This is a template that has a water ripple effect and a typed plugin other hover effects.
         <br>
-        The contact form is connected to google forms, and it can be changed according to convenience.
-      Keep all the files in single folder and then run the file.</p>
+        The contact form is connected to google forms, and it can be changed according to convenience. 
+        <br>
+      You can get to know how to connect the contact form to your google form  <a href="https://www.youtube.com/watch?v=eVvhNAnOf1A">here</a>.</p>
     <h2>How to change the automatic typed sentences?</h2>
     <p>Go to main.js file, you will find the following code change the sentences as per requirement.
     <pre>
