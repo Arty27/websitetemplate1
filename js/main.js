@@ -38,7 +38,7 @@ $(document).ready(function () {
 
 var submitted=false;
 var typed = new Typed('.text', {
-    strings: ['Welcome to <strong style="color:#d34500">SwanFlows</strong>.', 'What do want from Us?',],
+    strings: ['Welcome to <strong style="color:#d34500">Website Name</strong>.', 'What do want from Us?',],
     typeSpeed: 50,
     loop: true
   });
